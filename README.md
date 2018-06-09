@@ -1,1 +1,0 @@
-# football_table_gltf
