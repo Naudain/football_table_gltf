@@ -459,16 +459,16 @@
   ],
   "images": [
     {
-      "uri": "textures/CalcioBalilla01_emissive.jpeg"
+      "uri": "CalcioBalilla01_emissive.jpeg"
     },
     {
-      "uri": "textures/CalcioBalilla01_occlusion.jpeg"
+      "uri": "CalcioBalilla01_occlusion.jpeg"
     },
     {
-      "uri": "textures/CalcioBalilla01_diffuse.jpeg"
+      "uri": "CalcioBalilla01_diffuse.jpeg"
     },
     {
-      "uri": "textures/CalcioBalilla01_specularGlossiness.png"
+      "uri": "CalcioBalilla01_specularGlossiness.png"
     }
   ],
   "materials": [
